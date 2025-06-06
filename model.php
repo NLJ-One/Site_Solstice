@@ -1,0 +1,1 @@
+getSpecificBeers($connexion, $ids)
